@@ -16,7 +16,7 @@
   },
   "main": "src/fg-modal.js",
   "dependencies": {
-    "document-register-element": "^1.14.5",
+    "document-register-element": "^1.14.10",
     "wicg-inert": "^3.0.3"
   },
   "preview_url": "https://filamentgroup.github.io/fg-modal",
